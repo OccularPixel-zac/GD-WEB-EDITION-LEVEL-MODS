@@ -16,7 +16,7 @@ The levels found inside the videos i have made should be in the levels folder, j
 
 1 - Download your level as a .gmd file using gdshare.
 
-2 - Open the .gmd file in any Text editing software and copy the encoded text from *k4</k><s>* To *</s>*.
+2 - Open the .gmd file in any Text editing software and copy the encoded text from k4</k><s> To </s>.
 
 3 - Paste the encoded string into a text file and set its name to 1.txt
 
